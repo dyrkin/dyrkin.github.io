@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>env-dependency-maven-plugin</name>
+      <prefix>monkeyc</prefix>
+      <artifactId>env-dependency-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>env-dependency-maven-plugin</name>
+      <prefix>evndep</prefix>
+      <artifactId>env-dependency-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
